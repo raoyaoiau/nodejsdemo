@@ -86,3 +86,15 @@ client.llen('list01', function(err, reply){
 // client.scard('set01', redis.print);
 // client.quit();
 
+/**
+ * Q1: redis 有什么用, 你对redis的理解。
+ * 
+ * 
+ * Q2: redis配置。
+ * 
+ * 
+ * Q3:redis
+ * 
+ * 
+ */
+
